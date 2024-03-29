@@ -1,0 +1,4 @@
+transformers
+elasticsearch
+argparse
+torch
